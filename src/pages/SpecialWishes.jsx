@@ -6,9 +6,8 @@ const SpecialWishes = ({ isIOS }) => {
   const [showHeart, setShowHeart] = useState(false);
 
   const wishes = `
-haii sayangkuu, it's yourday 23 Mei 2026, selamat ulang tahun yaa,
-tepat pada hari ini umur kamu bertambah satu tahun. semoga rezeki kamu dilancarkan dan segala urusan kamu dimudahkan yaa. semoga kamu sehat-sehat terus, ga gampang capek, dan hati kamu selalu tenang.  
-aku berharap semoga kamu bisa menjadi pribadi yang lebih baik ke depannya, tambah dewasa, lebih sabar, dan makin kuat hadapin apapun. makasih udah jadi lelaki yang kuat sampai saat ini. makasih udah bertahan selama ini, padahal kita cuma bisa ketemu lewat layar, chat sama call. aku tau ga gampang ngejalanin hubungan virtual. kdang kngn minta dipelukk gbisaa, tpii kamu tetap di sini, konsisten, dan itu bikin aku ngerasa dihargai dan disayang sma kamuu🫶🏻, sayang aku terus ya, jangan pernah berubah. jaga komitmen kita, meskipun jarak masih misahin kita sekarang. aku percaya klo kita bisa ketemuu klo kmu serius dan effort smaa akuu, aku cuma mau kita tetap sama sama berjuang biar hubungan ini ga cmn virtual ajaa. harapan aku, semoga nanti kita bisa ketemu langsung, bisa ngobrol ga cuma lewat layar, bisa ketawa bareng smbil liat kmu, bisa gandengan tangan beneran. semoga apa yang kita jaga sekarang jadi jalan buat kita ketemu, dan semoga kita bisa kaya gini terus, sampai akhirnya ketemu, maacii udah jadi lelaki yang hebat buat aku. aku mau jadi tujuan dan seseorang yang berarti segalanya buat kamuu, semoga kmu ckup sma akuu yaa. so blessed to have you, love you❤️, bahagia selalu yaa sayangnya akuu, cintanya akuu, aku sayang kamu, hari ini, besok, dan sampai kita ketemu beneran🥰❤️
+Hai sayangku Selamat ulang tahun cintaku 🥳 , Terima kasih karena telah terlahir ke dunia ini. aku sangat bersyukur karena Dari sekian banyaknya orang yang kenal sama kamu Aku adalah salah satunya orang yang paling bersyukur atas Hadirnya dirimu di dunia ini. Semoga dengan bertambahnya usiamu sekarang kamu menjadi pribadi yang lebih baik,sehat, murah rezeki, umur yang panjang dan bertanggungjawab. Aku memang bukan perempuan yang pertama hadir dalam hidupmu tapi aku berharap tuhan akan menjadikan aku tujuan terakhir mu 🥰🫶🏻.
+Dan semoga Tuhan memberkati hubungan kita juga , melancarkan rezeki kita , menemani di setiap langkah dan rencana untuk hidup kita kedepannya 🥰😘
   `;
 
   return (
@@ -78,7 +77,7 @@ aku berharap semoga kamu bisa menjadi pribadi yang lebih baik ke depannya, tamba
               >
                 <div className="text-[12rem] select-none text-center">❤️</div>
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-3xl font-bold drop-shadow-lg">
-                  Friven Revano💖
+                  Anthonius Rival Ohoiwirin💖
                 </div>
                 <div className="text-white text-lg text-center mt-4">
                   Hatiku hanya untukmu, sayang🥹
