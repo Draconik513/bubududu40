@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
-import vidioBunga from "../assets/videos/vidioBungadudu.mp4";
+import vidioBunga from "../assets/images/vidioBungadudu.jpg";
 import fotoKenangan from "../assets/images/couple.jpg";
 
 const Memories = ({ isIOS }) => {
@@ -103,17 +103,12 @@ const Memories = ({ isIOS }) => {
               className="rounded-xl overflow-hidden shadow-xl border-4 border-rose-200"
               style={{ backfaceVisibility: "hidden" }}
             >
-              <video
-                autoPlay
-                loop
-                muted
-                playsInline
-                webkit-playsinline="true"
-                x-webkit-airplay="allow"
-                className="w-72 h-72 object-cover"
-              >
-                <source src={vidioBunga} type="video/mp4" />
-              </video>
+              <img
+            src={vidioBunga}
+            alt="Kita Berdua"
+            className="w-full max-w-md mx-auto rounded-xl shadow-2xl border-4 border-white"
+            style={{ transform: "translateZ(0)" }}
+          />
             </motion.div>
 
             {/* Realistic Blooming Flower */}
